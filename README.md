@@ -1,107 +1,113 @@
-# 👋 Hi, I'm Michael Bello
+<!--
+Credits and references used in this README:
 
-### 🚀 Full Stack Engineer | Backend-Focused
+1) Layout inspiration:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
-I build scalable backend systems and APIs that power real-world applications.
-My focus is on writing clean, maintainable code and designing systems that actually hold up in production.
+2) Skill icons:
+https://github.com/tandpfun/skill-icons
+
+3) GitHub stats:
+https://github.com/anuraghazra/github-readme-stats
+-->
+
+# 👋 Michael Bello
+
+**`Full Stack Engineer (Backend Specialist)`**
 
 ---
 
 ## 🧠 About Me
 
-* 💼 Backend-focused Full Stack Engineer
-* ⚙️ Strong experience building production-grade APIs
-* 🤝 Open to collaboration on impactful projects
-* 📌 Currently focused on improving system design & scalability
+* I design and build scalable backend systems and APIs for real-world applications
+* Strong focus on clean architecture, performance, and maintainability
+* Experienced working on production systems across fintech, e-commerce, and delivery platforms
+* Open to collaboration on impactful and scalable products
 
 ---
 
-## 🔧 Tech Stack
 
-### 🖥 Backend
+## ⚙️ Skill Stack
 
-* Node.js (Express, TypeScript)
-* PHP (CodeIgniter, Laravel)
-* Java (Learning & building with Spring Boot)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,php,git,github,java,laravel,react,nextjs,aws\&theme=light)](https://skillicons.dev)
 
-### 🌐 Frontend
+**Also comfortable with:** SQL (MYsql, Postgres) NOSQL(MongoDB, Cassandra) Microservices architecture.
+---
 
-* React
-* Next.js
+## 🚀 Current Focus
 
-### 📱 Mobile
-
-* React Native
-
-### 🗄 Database
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Cassandra
-
-### ☁️ Cloud & Tools
-
-* AWS 
-* Stripe / Payment Integrations
-* REST APIs & Microservices
+* Mastering **Java Spring Boot** for enterprise-grade backend systems
+* Building **scalable fintech APIs** with emphasis on security, performance, and reliability
 
 ---
 
-## 🎯 Current Focus
+## 💼 Projects - Showcase
 
-* Mastering **Java Spring Boot** for enterprise-grade backend development
-* Building **scalable fintech APIs** with strong emphasis on security, performance, and clean architecture
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://app.learnspeakly.com">
+        <img src="https://github.com/user-attachments/assets/278748a9-b28f-48ca-acd4-d2482c5e610e"
+             alt="LearnSpeakly"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>LearnSpeakly</b><br/>
+      <sub>Language learning platform connecting users with tutors and cultural roots.</sub><br/>
+      🔗 <a href="https://app.learnspeakly.com">Live App</a>
+      <br/>
+      <sub>Stack: Node.js, Express, TypeScript, Prisma, PostgreSQL, AWS</sub>
+    </td>
+
+<td align="center" width="33%">
+      <a href="https://app.trybido.com">
+        <img src="https://github.com/user-attachments/assets/2a933aeb-cd22-4ee0-8570-70b230bfcef7"
+             alt="TryBido"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>TryBido (In Progress)</b><br/>
+      <sub>Vehicle marketplace with buy-now and auction-based purchasing system.</sub><br/>
+      🔗 <a href="https://app.trybido.com">Live App</a>
+      <br/>
+      <sub>Stack: PHP (CodeIgniter), Microservices, PressPay</sub>
+    </td>
+
+<td align="center" width="33%">
+      <a href="https://app.xpressit.co.uk">
+        <img src="https://github.com/user-attachments/assets/f2711668-db0a-4a7a-bb53-4b465f042922"
+             alt="XpressIt"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>XpressIt</b><br/>
+      <sub>Delivery platform for sending packages quickly and efficiently.</sub><br/>
+      🔗 <a href="https://app.xpressit.co.uk">Live App</a>
+      <br/>
+      <sub>Stack: PHP (CodeIgniter), MySQL, Stripe, VPS</sub>
+    </td>
+
+  </tr>
+</table>
 
 ---
 
-## 💼 Featured Projects
+## 📊 Stats
 
-### 🗣 LearnSpeakly
-
-🔗 https://app.learnspeakly.com
-A language learning platform that connects users with their heritage and tutors worldwide.
-
-**Role:** Backend Engineer
-**Tech:** Node.js, Express, TypeScript, Prisma, PostgreSQL, AWS (EC2, RDS)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devmike2&theme=tokyonight&hide_border=true&short_numbers=true&card_width=490)](https://git.io/streak-stats)
 
 ---
 
-### 🚗 TryBido *(In Progress)*
+## 🔗 Links
 
-🔗 https://app.trybido.com
-An e-commerce platform for vehicle purchases featuring:
-
-* Direct "Buy Now" option
-* Auction-based bidding system
-
-**Role:** Backend Engineer
-**Tech:** PHP (CodeIgniter), Microservices, PressPay
-
----
-
-### 📦 XpressIt
-
-🔗 https://app.xpressit.co.uk
-A delivery platform that allows users to send packages seamlessly.
-
-**Role:** Backend Engineer
-**Tech:** PHP (CodeIgniter), MySQL, Stripe, VPS (cPanel)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-* 📧 Email: [michaelbello2.44@gmail.com](mailto:michaelbello2.44@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/devemike *(I corrected it to a standard LinkedIn format — update if needed)*
+<p>
+  <a href="mailto:michaelbello2.44@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/devemike">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -110,4 +116,3 @@ A delivery platform that allows users to send packages seamlessly.
 > Build systems that scale.
 > Write code that lasts.
 > Solve problems that matter.
-
